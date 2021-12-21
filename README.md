@@ -1,5 +1,5 @@
 # LanguageTranslator
-Language Translator is a program that is used to convert 10 phrases from English to Chinese in text and audio format. After learning the phrases, users can test their knowledge by answering 10 questions. The score from the test will then be saved into a text file. 
+Language Translator is a program that is used to convert 10 phrases from English to Chinese in text and audio format. After learning the phrases, users can test their knowledge by answering 10 questions.
 
 # Software Required to Run the Project 
 [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
