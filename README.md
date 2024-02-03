@@ -15,6 +15,7 @@
   <a href="#setting-up-locally"><strong>Setting Up Locally</strong></a>
 </p>
 <br/>
+
 # Introduction 
 Language Translator is an interactive program to translate English to Chinese and take quizzes on languages built using C++.
 
